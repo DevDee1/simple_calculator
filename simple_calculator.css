@@ -1,6 +1,6 @@
 body{
 	font-family: 'Open Sans',sans-serif;
-background:linear-gradient(to right, hsl(200, 100%, 50%), hsl(175, 100%, 50%));
+background:#f3f3f3;
 }
 #calculator{
 	width: 320px;
